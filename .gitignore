@@ -1,0 +1,35 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.DS_Store
+# NuGet packages
+packages/
+*.nupkg
+# User-specific files
+*.rsuser
+# Rider
+.idea/
+# VS Code
+.vscode/
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+# Secrets
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+*.pfx
+*.p12

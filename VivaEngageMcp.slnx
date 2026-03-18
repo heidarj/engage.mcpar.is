@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VivaEngageMcp.Server/VivaEngageMcp.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VivaEngageMcp.Server.Tests/VivaEngageMcp.Server.Tests.csproj" />
+  </Folder>
+</Solution>
